@@ -1,10 +1,16 @@
 _repo: Lady-Huntworth-s-Experiment-An-original-comedy-in-three-acts_50097
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50097-h/images/cover.jpg
 creator:
   author:
     agent_name: Carton, Richard Claude
     gutenberg_agent_id: '45703'
     url: http://www.gutenberg.org/2009/agents/45703
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50097#Lady-Huntworth-s-Experiment-An-original-comedy-in-three-acts
 gutenberg_issued: '2015-09-30'
 gutenberg_type: Text
 identifiers:
